@@ -62,7 +62,7 @@ Camel/
 1. Clone the repository:
    ```bash
    git clone https://github.com/duastmojik/Tracker.git
-   cd tracking-implementation
+   cd Tracker-main\Tracker-main
 2. Ensure you have Python installed(3.10). It's recommended to use a virtual environment.
 3. Install the required libraries:
     pip install -r requirements.txt
