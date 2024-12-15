@@ -1,7 +1,7 @@
 # Tracking enhanced approaches and their visualization
 
 ### Description
-There are total of 9 experimental approaches to test the trackers performance on dual modality streams. Each of those approaches is represented visually in `Final visualization of results.ipynb` and briefly described. Those approaches are further implemented in a single file `Methods implementation.ipynb`. If you have the Camel dataset with the same structure as mentioned [here](#project-structure) all of the methods will be run on all of the files. The dataset can be downloaded from here https://camel.ece.gatech.edu/.
+There are total of 9 experimental approaches to test the trackers performance on dual modality streams. Each of those approaches is represented visually in `Final visualization of results.ipynb` and briefly described. Those approaches are further implemented in a single file `Methods implementation.ipynb`. If you have the Camel dataset with the same structure as mentioned [here](#project-structure) all of the methods will be run on all of the files. The dataset can be downloaded from here https://camel.ece.gatech.edu/ or already preprocessed one here https://drive.google.com/file/d/1lgo7cwVMyQWYqW3FHAeb-ZkHGyiixbMT/view?usp=sharing.
 
 # Dependencies
 Extract `Pretrained-models.zip` and move its content to the working directory. Following files should be present:
