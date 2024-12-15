@@ -1,6 +1,7 @@
-opencv-python
-numpy
-pandas
-joblib
+opencv-contrib-python==4.10.0.84
+jupyterlab
+numpy==1.26.4
+pandas==2.2.2
+joblib==1.4.2
 tqdm
-scikit-learn
+scikit-learn==1.2.2

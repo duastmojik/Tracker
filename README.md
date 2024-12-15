@@ -61,9 +61,9 @@ Camel/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://gitlab.workswell.cz/tracking/tracking-implementation.git
+   git clone https://github.com/duastmojik/Tracker.git
    cd tracking-implementation
-2. Ensure you have Python installed. It's recommended to use a virtual environment.
+2. Ensure you have Python installed(3.10). It's recommended to use a virtual environment.
 3. Install the required libraries:
     pip install -r requirements.txt
     
